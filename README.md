@@ -12,12 +12,12 @@ I'm on a 6-person engineering team at a corporation with 50+ subsidiaries. My jo
 
 A few things I've shipped that I'm proud of:
 
-- **Company-wide AI chatbot** — Led a 3-engineer team to design and launch an AI chatbot on Azure OpenAI for ~2,500 employees in under a month. Custom RAG pipeline, vector database, role-based document permissions built on top of our internal file system. ~500 daily active users now.
-- **PII management system** — Replaced a costly third-party HR tool with an internal system. MVP in under 2 weeks, production in ~5 weeks. Saved $80K+/year in licensing and cut a week-long process down to under 10 minutes.
-- **Enterprise integration dashboard** — Mapped 50+ platforms and data flows so our C-suite could actually see system ownership, vendor overlap, and SaaS spend. Contributed to hundreds of thousands in cost savings.
-- **Unified auth routing** — Consolidated authentication across all subsidiaries into three OAuth providers (Azure B2C, Okta, Entra ID). Reduced helpdesk ticket volume by 40%.
+- **Company-wide AI chatbot** - Led a 3-engineer team to design and launch an AI chatbot on Azure OpenAI for ~2,500 employees in under a month. Custom RAG pipeline, vector database, role-based document permissions built on top of our internal file system. ~500 daily active users now.
+- **PII management system** - Replaced a costly third-party HR tool with an internal system. MVP in under 2 weeks, production in ~5 weeks. Saved $80K+/year in licensing and cut a week-long process down to under 10 minutes.
+- **Enterprise integration dashboard** - Mapped 50+ platforms and data flows so our C-suite could actually see system ownership, vendor overlap, and SaaS spend. Contributed to hundreds of thousands in cost savings.
+- **Unified auth routing** - Consolidated authentication across all subsidiaries into three OAuth providers (Azure B2C, Okta, Entra ID). Reduced helpdesk ticket volume by 40%.
 
-I also run recurring AI training across the company — quarterly workshops for executives, engineers, and nontechnical employees on everything from prompting to agentic workflows. Six sessions over the past two years.
+I also run recurring AI training across the company - quarterly workshops for executives, engineers, and nontechnical employees on everything from prompting to agentic workflows. Six sessions over the past two years.
 
 ---
 
@@ -35,11 +35,11 @@ I block at least an hour a week to work on automating my own job. Sometimes that
 
 ### Outside of work
 
-**Music** — I make music and DJ with my best friend. We've released a handful of singles (most popular one hit ~130K streams) and have DJ'd roughly 20 events over the past four years, most recently a club set in Scottsdale for around 500 people.
+**Music** - I make music and DJ with my best friend. We've released a handful of singles (most popular one hit ~130K streams) and have DJ'd roughly 20 events over the past four years, most recently a club set in Scottsdale for around 500 people.
 
-**Helping people use AI** — This one is genuinely a hobby at this point. I helped my sister set up Claude to manage her kids' schedules and study for her real estate license (she passed). I helped my dad, who runs a construction company, adopt Claude for Excel to clean up his financials and project tracking. I taught my 77-year-old grandfather how to use Claude — he now uses it to summarize his email newsletters and reserve his weekly handball court. I helped a friend who runs a small HVAC business automate client outreach and scheduling. These weekend projects have been some of the most rewarding things I've worked on.
+**Helping people use AI** - This one is genuinely a hobby at this point. I helped my sister set up Claude to manage her kids' schedules and study for her real estate license (she passed). I helped my dad, who runs a construction company, adopt Claude for Excel to clean up his financials and project tracking. I taught my 77-year-old grandfather how to use Claude - he now uses it to summarize his email newsletters and reserve his weekly handball court. I helped a friend who runs a small HVAC business automate client outreach and scheduling. These weekend projects have been some of the most rewarding things I've worked on.
 
-**Alaska** — Born and raised. Still close to home.
+**Alaska** - Born and raised. Still close to home.
 
 ---
 
