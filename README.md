@@ -4,7 +4,7 @@ I'm a customer-facing software engineer based in San Francisco, originally from 
 
 Most of my production work lives in private enterprise repositories, but here are a few of my personal projects!
 
-I love building internal tools, AI products, enterprise integrations, and helping nontechnical teams adopt better software.
+I love building internal tools, AI products, enterprise integrations, and working with teams adopt better software.
 
 ---
 
